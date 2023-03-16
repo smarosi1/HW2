@@ -1,0 +1,51 @@
+Locations of state universities (University of <State>)
+Decimal degree latitude/longitude values from latitude.to
+
+  0  33.209438 -87.541493 Tuscaloosa, AL
+  1  36.068681 -94.176012 Fayetteville, AR
+  2  32.23564 -110.95174 Tucson, AZ
+  3  34.07088 -118.44685 Los Angeles, CA
+  4  40.00694 -105.26639 Boulder, CO
+  5  41.82176 -72.24278 Storrs, CN
+  6  39.68103 -75.75402 Newark, DE
+  7  29.63288 -82.34901 Gainesville, FL
+  8  33.94043 -83.37305 Athens, GA
+  9  46.72380 -117.02044 Moscow, ID
+ 10  40.09912 -88.23852 Urbana-Champaign, IL
+ 11  39.18024 -86.50935 Bloomington, IN (Indiana U)
+ 12  41.66831 -91.57953 Iowa City, IA
+ 13  38.95349 -95.26309 Lawrence, KS
+ 14  38.02704 -84.50484 Lexington, KY
+ 15  30.21929 -92.04138 Lafayette, LA
+ 16  44.89914 -68.66637 Orono, ME
+ 17  38.99041 -76.94386 College Park, MD
+ 18  42.38694 -72.52991 Amherst, MA
+ 19  42.29421 -83.71004 Ann Arbor, MI
+ 20  44.97101 -93.23144 Minneapolis, MN
+ 21  34.36461 -89.53963 Oxford, MS
+ 22  38.93641 -92.32970 Columbia, MO
+ 23  46.85461 -113.96552 Missoula, MT
+ 24  40.82068 -96.70048 Lincoln, NE
+ 25  39.54427 -119.81631 Reno, NV
+ 26  43.13827 -70.93238 Durham, NH
+ 27  40.74213 -74.17903 Newark, NJ (NJIT)
+ 28  35.08663 -106.62021 Albuquerque, NM
+ 29  40.90988 -73.12155 Stony Brook, NY (Stoney Brook U)
+ 30  35.90504 -79.04775 Chapel Hill, NC
+ 31  47.92654 -97.07212 Grand Forks, ND
+ 32  39.32300 -82.10268 Athens, OH (Ohio U) 
+ 33  35.19599 -97.44571 Norman, OK
+ 34  44.04455 -123.07174 Eugene, OR
+ 35  39.94934 -75.18964 Philadelphia, PA
+ 36  41.48730 -71.53446 Kingston, RI
+ 37  33.99288 -81.02675 Columbia, SC
+ 38  42.79137 -96.92542 Vermillion, SD
+ 39  35.95164 -83.93088 Knoxville, TN
+ 40  30.28522 -97.73389 Austin, TX
+ 41  40.76281 -111.83687 Salt Lake City, UT
+ 42  44.47374 -73.19415 Burlington, VT
+ 43  38.04106 -78.50550 Charlottesville, VA
+ 44  47.65435 -122.30806 Seattle, WA
+ 45  39.65369 -79.95745 Morgantown, WV (WVU)
+ 46  43.08027 -89.43096 Madison, WI
+ 47  41.31423 -105.56432 Laramie, WY
